@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 22 14:53:06 IST 2024","Tue Oct 22 14:53:13 IST 2024","6761","","My Login application","","","","should not login with blank credentials",""
+"passed","Tue Oct 22 14:53:18 IST 2024","Tue Oct 22 14:53:24 IST 2024","5833","","My Login application","","","","should not login with invalid credentials",""
+"passed","Tue Oct 22 14:53:30 IST 2024","Tue Oct 22 14:53:37 IST 2024","6219","","My Login application","","","","should login with valid credentials",""
+"passed","Tue Oct 22 14:53:24 IST 2024","Tue Oct 22 14:53:30 IST 2024","6219","","My Login application","","","","should not login with locked credentials",""
+"passed","Tue Oct 22 14:53:13 IST 2024","Tue Oct 22 14:53:18 IST 2024","5363","","My Login application","","","","should not login with No Password credentials",""
